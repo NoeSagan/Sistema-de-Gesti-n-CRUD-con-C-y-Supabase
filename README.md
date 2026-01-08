@@ -1,39 +1,35 @@
-# Sistema-de-Gestion-CRUD
+# 📦 Sistema de Gestión CRUD (C# & Supabase)
+
+> **⚠️ IMPORTANTE:** Este proyecto se encuentra en desarrollo activo. Por favor, asegúrate de **TRABAJAR EN LA BRANCH `TEST`** antes de realizar cualquier commit.
 
 Este repositorio contiene una aplicación de escritorio diseñada para centralizar la administración de información crítica (Usuarios, Inventarios y Clientes). El sistema destaca por su alta eficiencia en la comunicación con servidores remotos y una interfaz de usuario optimizada para la productividad.
 
-🛠️ Stack Tecnológico
-Lenguaje: C# (.NET Framework / .NET)
+## 🛠️ Stack Tecnológico
+* **Lenguaje:** C# (.NET Framework / .NET)
+* **Interfaz:** Windows Forms (WinForms)
+* **Base de Datos:** PostgreSQL (Alojado en **Supabase**)
+* **Librerías:** `Npgsql` (ADO.NET Data Provider para PostgreSQL)
 
-Interfaz: Windows Forms (WinForms)
-
-Base de Datos: PostgreSQL (vía Supabase / AWS / Local)
-
-Librerías: Npgsql (ADO.NET Data Provider para PostgreSQL)
-
-🏗️ Arquitectura del Proyecto
+## 🏗️ Arquitectura del Proyecto
 El sistema se basa en una estructura organizada para facilitar el mantenimiento:
+* **Capa de Datos:** Manejo de cadenas de conexión y estados de sesión con el servidor (`ClaConexion.cs`).
+* **Capa de Lógica (CRUD):** Métodos parametrizados para la manipulación de datos, evitando vulnerabilidades como la **Inyección SQL** (`ClaCrud.cs`).
+* **Capa de Presentación:** Formularios dinámicos que consumen la lógica de negocio y presentan los datos mediante `DataGridView` optimizados.
 
-Capa de Datos: Manejo de cadenas de conexión y estados de sesión con el servidor.
+## 🌟 Funcionalidades Clave
+* **Persistencia en la Nube:** Sincronización inmediata de datos con PostgreSQL remoto.
+* **Seguridad:** Uso estricto de `NpgsqlParameters` para una seguridad de datos superior.
+* **Mantenimiento:** Incluye scripts de automatización para respaldos locales.
+* **Datos de Prueba:** Base de datos pre-cargada con 300 registros para pruebas de rendimiento.
 
-Capa de Lógica (CRUD): Métodos parametrizados para la manipulación de datos, evitando vulnerabilidades como la Inyección SQL.
+## 📂 Estructura de Archivos SQL
+Para replicar el entorno de base de datos, utiliza los archivos en la carpeta `/Base`:
+1.  **01_schema.sql**: Crea la estructura de tablas (Usuarios, Clientes, Productos).
+2.  **02_seed.sql**: Carga los 300 registros de prueba iniciales.
 
-Capa de Presentación: Formularios dinámicos que consumen la lógica de negocio y presentan los datos mediante DataGridView optimizados.
+## 🚀 Instalación y Uso
 
-🌟 Funcionalidades Clave
-Persistencia en la Nube: Sincronización inmediata de datos con PostgreSQL.
-
-Consultas Parametrizadas: Uso de NpgsqlParameters para una seguridad de datos superior.
-
-Búsqueda en Tiempo Real: Filtros dinámicos mediante el operador ILIKE.
-
-Gestión de Relaciones: Estructura de base de datos normalizada con llaves primarias y foráneas.
-
-🚀 Instalación y Uso
-Clonar el repositorio: git clone https://github.com/tu-usuario/nombre-del-repo.git
-
-Configurar el esquema de la base de datos mediante los scripts proporcionados en la carpeta /Base.
-
-Ajustar las credenciales en la clase de conexión.
-
-Ejecutar la solución en Visual Studio.
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+   git checkout TEST
