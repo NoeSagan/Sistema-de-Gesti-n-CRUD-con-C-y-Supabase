@@ -32,7 +32,7 @@ Gestión de Relaciones: Estructura de base de datos normalizada con llaves prima
 🚀 Instalación y Uso
 Clonar el repositorio: git clone https://github.com/tu-usuario/nombre-del-repo.git
 
-Configurar el esquema de la base de datos mediante los scripts proporcionados en la carpeta /sql.
+Configurar el esquema de la base de datos mediante los scripts proporcionados en la carpeta /Base.
 
 Ajustar las credenciales en la clase de conexión.
 
