@@ -1,0 +1,242 @@
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\OFL.txt
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.exe
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.deps.json
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.runtimeconfig.json
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.pdb
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\QuestPDF.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\noeli\source\repos\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.csproj.AssemblyReference.cache
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.csproj.GenerateResource.cache
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.AssemblyInfoInputs.cache
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.AssemblyInfo.cs
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.csproj.CoreCompileInputs.cache
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto.3C291568.Up2Date
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.dll
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\refint\Proyecto ABC.dll
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.pdb
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.genruntimeconfig.cache
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\ref\Proyecto ABC.dll
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmLogin.resources
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmClientes.resources
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmFactura.resources
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmMenuPrincipal.resources
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmProductos.resources
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmUsuarios.resources
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmConsultarFacturas.resources
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.frmCxC.resources
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmReportes.resources
+C:\Users\noeli\source\repos\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmReporteVentas.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\LatoFont\OFL.txt
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.exe
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.deps.json
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.runtimeconfig.json
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\Proyecto ABC.pdb
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\QuestPDF.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.csproj.AssemblyReference.cache
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmLogin.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmClientes.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmConsultarFacturas.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.frmCxC.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmFactura.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmMenuPrincipal.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmProductos.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmReportes.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmReporteVentas.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto_ABC.FrmUsuarios.resources
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.csproj.GenerateResource.cache
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.AssemblyInfoInputs.cache
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.AssemblyInfo.cs
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.csproj.CoreCompileInputs.cache
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto.3C291568.Up2Date
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\refint\Proyecto ABC.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.pdb
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\Proyecto ABC.genruntimeconfig.cache
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\obj\Debug\net8.0-windows\ref\Proyecto ABC.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\noeli\source\repos\RyanD099\Empresa-ABC-proyecto-final\src\Forms\Proyecto ABC\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\LatoFont\OFL.txt
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\Proyecto ABC.exe
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\Proyecto ABC.deps.json
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\Proyecto ABC.runtimeconfig.json
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\Proyecto ABC.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\Proyecto ABC.pdb
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\QuestPDF.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libqpdf.so
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libqpdf.so
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libqpdf.so
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libqpdf.dylib
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libqpdf.dylib
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\libgcc_s_seh-1.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\libstdc++-6.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\libwinpthread-1.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\qpdf.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x86\native\libstdc++-6.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x86\native\libwinpthread-1.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x86\native\qpdf.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\bin\Debug\net8.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto ABC.csproj.AssemblyReference.cache
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.FrmLogin.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.FrmClientes.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.FrmConsultarFacturas.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.frmCxC.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.FrmFactura.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.FrmMenuPrincipal.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.FrmProductos.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.FrmReportes.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.FrmReporteVentas.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto_ABC.FrmUsuarios.resources
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto ABC.csproj.GenerateResource.cache
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto ABC.AssemblyInfoInputs.cache
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto ABC.AssemblyInfo.cs
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto ABC.csproj.CoreCompileInputs.cache
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto.3C291568.Up2Date
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto ABC.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\refint\Proyecto ABC.dll
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto ABC.pdb
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\Proyecto ABC.genruntimeconfig.cache
+C:\Users\noeli\source\repos\Proyecto Final\Empresa-ABC-proyecto-final\src\Forms\obj\Debug\net8.0-windows\ref\Proyecto ABC.dll
